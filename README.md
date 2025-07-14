@@ -23,7 +23,6 @@ HTML, CSS, Javascprit, Lógica de programação
      
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-470.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-4708D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) </div>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
